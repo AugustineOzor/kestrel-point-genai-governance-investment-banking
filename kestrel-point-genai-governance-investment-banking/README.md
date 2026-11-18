@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="assets/kestrel-point-banner.jpg" alt="Kestrel Point Capital: Generative AI Governance for Investment Banking" width="100%">
+<img width="2560" height="840" alt="kestrel-point-banner" src="https://github.com/user-attachments/assets/a84ed4af-2e60-45cc-aa1f-a1160c971a7c" />
+
 </p>
 
 # Kestrel Point Capital · Generative AI Governance for Investment Banking
@@ -90,7 +91,4 @@ Every ID is used consistently across documents, so a reviewer can trace a Board-
 - AI third-party risk management
 - KRIs, incident response and Board reporting
 
-## Author
 
-**Augustine Ozor** · AI Governance and GRC
-[LinkedIn](https://www.linkedin.com/in/augustinetettehozor/) · [Portfolio](https://augustineozor.github.io)
