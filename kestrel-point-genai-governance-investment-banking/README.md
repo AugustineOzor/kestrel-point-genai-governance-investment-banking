@@ -72,11 +72,7 @@ The Board asked for a programme that would let bankers use AI safely instead of 
 
 ## How the pieces connect
 
-```
-Use case (UC-xx) ──► Tier ──► Risks (R-xx) ──► Controls (C-xx) ──► Tests ──► Findings (F-xx) ──► Actions (RA-xx) ──► Board report
-                                    │                 │
-                                    └── KRIs ◄────────┘
-```
+<img width="3200" height="1120" alt="kestrel-point-traceability-workflow" src="https://github.com/user-attachments/assets/5da6b3c5-bbb5-4eb7-a50e-7c7763a1194f" />
 
 Every ID is used consistently across documents, so a reviewer can trace a Board-level risk back to the control test that supports its rating.
 
